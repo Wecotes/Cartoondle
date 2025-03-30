@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cartoondle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="game-container">
+    <h1>Cartoondle</h1>
+    <p>Guess the cartoon character!</p>
+    
+    <!-- Hint Section -->
+    <p id="hint"></p>
+
+    <!-- Input with autocomplete -->
+    <input type="text" id="guessInput" list="characterList" placeholder="Enter a character name..." />
+    <datalist id="characterList"></datalist>
+    <button id="submitGuess">Guess</button>
+    
+    <!-- Character Info -->
+    <div id="characterInfo">
+      <p><strong>Show:</strong> <span id="show"></span></p>
+      <p><strong>Network:</strong> <span id="network"></span></p>
+      <p><strong>Role:</strong> <span id="role"></span></p>
+      <p><strong>Gender:</strong> <span id="gender"></span></p>
+      <p><strong>Species:</strong> <span id="species"></span></p>
+      <p><strong>Color:</strong> <span id="color"></span></p>
+      <p><strong>Debut Year:</strong> <span id="debutYear"></span></p>
+    </div>
+
+    <!-- Feedback -->
+    <div id="feedback"></div>
+    
+    <!-- Attempts Counter -->
+    <div id="attempts">
+      <p>Attempts: <span id="attemptsLeft">6</span> remaining</p>
+    </div>
+    
+    <!-- Restart Button -->
+    <button id="restartButton" style="display: none;">Restart</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

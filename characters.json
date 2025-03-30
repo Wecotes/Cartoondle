@@ -1,0 +1,2954 @@
+[
+  {
+    "name": "Finn",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Jake",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Dog",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Princess Bubblegum",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Gum Person",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Marceline",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Vampire",
+    "role": "Main",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Ice King",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Human/Wizard",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "BMO",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Robot",
+    "role": "Side",
+    "color": "Teal",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Lumpy Space Princess",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Lumpy Space Person",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Tree Trunks",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Elephant",
+    "role": "Side",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Peppermint Butler",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Candy Person",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Magic Man",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Martian",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Flame Princess",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Flame Person",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Lady Rainicorn",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Rainicorn",
+    "role": "Side",
+    "color": "Rainbow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Huntress Wizard",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Human/Wizard",
+    "role": "Side",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Cinnamon Bun",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Bread Person",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Earl of Lemongrab",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Lemon Person",
+    "role": "Villain",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Gunter",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Penguin",
+    "role": "Side",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Prismo",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Cosmic Entity",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "The Lich",
+    "show": "Adventure Time",
+    "debut_year": 2010,
+    "species": "Undead",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Mordecai",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Blue Jay",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Rigby",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Raccoon",
+    "role": "Main",
+    "color": "Brown",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Benson",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Gumball Machine",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Skips",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Yeti",
+    "role": "Side",
+    "color": "White",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Pops",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Lollipop Person",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Muscle Man",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Hi-Five Ghost",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Ghost",
+    "role": "Side",
+    "color": "White",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Eileen",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Mole",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Margaret",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Red Robin",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Death",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Grim Reaper",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Thomas",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Goat",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Starla",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Garrett Bobby Ferguson",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Alien",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Don",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Raccoon",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Cloudy Jay",
+    "show": "Regular Show",
+    "debut_year": 2010,
+    "species": "Cloud Person",
+    "role": "Side",
+    "color": "White",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Gumball",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Cat",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Darwin",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Fish",
+    "role": "Main",
+    "color": "Orange",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Anais",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Rabbit",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Nicole",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Cat",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Richard",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Rabbit",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Penny Fitzgerald",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Peanut/Fairy",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Banana Joe",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Banana",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Tobias Wilson",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Unknown",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Alan the Balloon",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Balloon",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Principal Brown",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Ape",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Carrie",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Ghost",
+    "role": "Side",
+    "color": "White",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Tina Rex",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Dinosaur",
+    "role": "Side",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Ocho",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Pixel Spider",
+    "role": "Side",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Clayton",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Clay Ball",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Jamie",
+    "show": "The Amazing World of Gumball",
+    "debut_year": 2011,
+    "species": "Cyclops",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Steven",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Half-Gem",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Garnet",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Main",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Amethyst",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Main",
+    "color": "Purple",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Pearl",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Main",
+    "color": "White",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Greg",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Connie",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Peridot",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Side",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Bismuth",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Onion",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Lars",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Sadie",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Lion",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Magical Lion",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Spinel",
+    "show": "Steven Universe",
+    "debut_year": 2019,
+    "species": "Gem",
+    "role": "Villain",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Jasper",
+    "show": "Steven Universe",
+    "debut_year": 2013,
+    "species": "Gem",
+    "role": "Villain",
+    "color": "Orange",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Robin",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Starfire",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Tamaranian",
+    "role": "Main",
+    "color": "Purple",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Raven",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Half-Demon",
+    "role": "Main",
+    "color": "Dark Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Beast Boy",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Metahuman",
+    "role": "Main",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Cyborg",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Cyborg",
+    "role": "Main",
+    "color": "Silver",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Jinx",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Metahuman",
+    "role": "Villain",
+    "color": "Pink",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Gizmo",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Mammoth",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Metahuman",
+    "role": "Villain",
+    "color": "Orange",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Terra",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Red X",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Slade",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Blackfire",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Tamaranian",
+    "role": "Villain",
+    "color": "Purple",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Argent",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Metahuman",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Speedy",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Aqualad",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Atlantean",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Bumblebee",
+    "show": "Teen Titans",
+    "debut_year": 2003,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Ben Tennyson",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Gwen Tennyson",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Kevin Levin",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Mutant",
+    "role": "Side",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Grandpa Max",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Vilgax",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Alien",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Charmcaster",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Purple",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Julie Yamamoto",
+    "show": "Ben 10",
+    "debut_year": 2008,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Rook Blonko",
+    "show": "Ben 10",
+    "debut_year": 2012,
+    "species": "Alien",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Zombozo",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Alien Clown",
+    "role": "Villain",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Azmuth",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Galvan",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Hex",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Albedo",
+    "show": "Ben 10",
+    "debut_year": 2008,
+    "species": "Galvan",
+    "role": "Villain",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Dr. Animo",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Khyber",
+    "show": "Ben 10",
+    "debut_year": 2012,
+    "species": "Alien",
+    "role": "Villain",
+    "color": "Dark Gray",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Four Arms",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Tetramand",
+    "role": "Alien Form",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "SpongeBob SquarePants",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Sponge",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Patrick Star",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Starfish",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Squidward",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Octopus",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Mr. Krabs",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Crab",
+    "role": "Side",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sandy Cheeks",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Squirrel",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Plankton",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Plankton",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Karen",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Computer",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Larry the Lobster",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Lobster",
+    "role": "Side",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Mermaid Man",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Barnacle Boy",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Bubble Bass",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Fish",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Squilliam",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Octopus",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Man Ray",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Ray",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Flying Dutchman",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "DoodleBob",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 2001,
+    "species": "Drawing",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Aang",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Katara",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sokka",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Toph",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Zuko",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Appa",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Sky Bison",
+    "role": "Side",
+    "color": "White",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Momo",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Lemur",
+    "role": "Side",
+    "color": "White",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Suki",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jet",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Mai",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Ty Lee",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "King Bumi",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Iroh",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Haru",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Long Feng",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Azula",
+    "show": "Avatar: The Last Airbender",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Korra",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Mako",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Bolin",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Asami",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Black",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Tenzin",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Ikki",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Meelo",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jinora",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Varrick",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Zhu Li",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Eska",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Desna",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Baatar Jr.",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Amon",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Kuvira",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Unalaq",
+    "show": "The Legend of Korra",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Dark Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Danny Phantom",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human/Ghost",
+    "role": "Main",
+    "color": "White",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sam Manson",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Main",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Tucker Foley",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jazz Fenton",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Vlad Plasmius",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human/Ghost",
+    "role": "Villain",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Valerie Gray",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Technus",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Ember McLain",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Skulker",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Box Ghost",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Clockwork",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Fright Knight",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Johnny 13",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Kitty",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Desiree",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Ghost",
+    "role": "Villain",
+    "color": "Teal",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Timmy Turner",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Cosmo",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Fairy",
+    "role": "Main",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Wanda",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Fairy",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Vicky",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Mr. Crocker",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Tootie",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Chester",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "AJ",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jorgen Von Strangle",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Fairy",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Mark Chang",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Alien",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Remy Buxaplenty",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Tooth Fairy",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Fairy",
+    "role": "Side",
+    "color": "White",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Cupid",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Fairy",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Blonda",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Fairy",
+    "role": "Side",
+    "color": "Blonde",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Anti-Cosmo",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Anti-Fairy",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jimmy Neutron",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Carl Wheezer",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sheen Estevez",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Cindy Vortex",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Libby Folfax",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Nick Dean",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Bolbi Stroganovsky",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Hugh Neutron",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Professor Calamitous",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Betty Quinlan",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Eustace Strych",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Beautiful Gorgeous",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Black",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jet Fusion",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Kim Possible",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ron Stoppable",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Rufus",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Naked Mole Rat",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Wade",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Dr. Drakken",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Shego",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Bonnie Rockwaller",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Monique",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Se\u00f1or Senior Jr.",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Se\u00f1or Senior Sr.",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Duff Killigan",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "DNAmy",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Monkey Fist",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human/Mutant",
+    "role": "Villain",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Zita Flores",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Phineas Flynn",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Main",
+    "color": "Orange",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ferb Fletcher",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Candace Flynn",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Perry the Platypus",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Platypus",
+    "role": "Side",
+    "color": "Teal",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Dr. Doofenshmirtz",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Villain",
+    "color": "White",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Buford Van Stomm",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Baljeet Tjinder",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Stacy Hirano",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Norm",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Robot",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Irving",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Isabella Garcia-Shapiro",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Vanessa Doofenshmirtz",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Black",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Major Monogram",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Carl the Intern",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Dipper Pines",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Mabel Pines",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Grunkle Stan",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Gray",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Soos Ramirez",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Wendy Corduroy",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Pacifica Northwest",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Bill Cipher",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Demon",
+    "role": "Villain",
+    "color": "Yellow",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Old Man McGucket",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Sheriff Blubs",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Deputy Durland",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Robbie Valentino",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Black",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Blendin Blandin",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Teal",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ford Pines",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Lazy Susan",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Star Butterfly",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Mewman",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Marco Diaz",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Tom Lucitor",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Demon",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Pony Head",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Floating Unicorn Head",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Glossaryck",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Magical Being",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Janna",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Miss Heinous / Meteora",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Mewman/Monster",
+    "role": "Villain",
+    "color": "Gray",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Eclipsa",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Mewman",
+    "role": "Side",
+    "color": "Dark Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "River Butterfly",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Mewman",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Moon Butterfly",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Mewman",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ludo",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Monster",
+    "role": "Villain",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ferguson",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Kelly",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Rafael Diaz",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Rick Sanchez",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Morty Smith",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Summer Smith",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Beth Smith",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Jerry Smith",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Mr. Meeseeks",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Meeseeks",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Birdperson",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Birdperson",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Squanchy",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Cat-person",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Tammy Guetermann",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Blonde",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Noob-Noob",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Alien",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Evil Morty",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Yellow",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Mr. Poopybutthole",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Unknown",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Abradolf Lincler",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Genetic Hybrid",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Gearhead",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Gear-person",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Ben",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Gwen",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "Kevin",
+    "show": "Ben 10",
+    "debut_year": 2005,
+    "species": "Human",
+    "role": "Side",
+    "color": "Black",
+    "network": "Cartoon Network"
+  },
+  {
+    "name": "SpongeBob",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Sponge",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Patrick",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Starfish",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sandy",
+    "show": "SpongeBob SquarePants",
+    "debut_year": 1999,
+    "species": "Squirrel",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Danny",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human/Ghost",
+    "role": "Main",
+    "color": "White",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sam",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Tucker",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jazz",
+    "show": "Danny Phantom",
+    "debut_year": 2004,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Timmy",
+    "show": "The Fairly OddParents",
+    "debut_year": 2001,
+    "species": "Human",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Jimmy",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Carl",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Orange",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Sheen",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Cindy",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Libby",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Bolbi",
+    "show": "Jimmy Neutron",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Nickelodeon"
+  },
+  {
+    "name": "Kim",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ron",
+    "show": "Kim Possible",
+    "debut_year": 2002,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Phineas",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Main",
+    "color": "Orange",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Ferb",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Candace",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Perry",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Platypus",
+    "role": "Side",
+    "color": "Teal",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Buford",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Baljeet",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Stacy",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Isabella",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Vanessa",
+    "show": "Phineas and Ferb",
+    "debut_year": 2007,
+    "species": "Human",
+    "role": "Side",
+    "color": "Black",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Dipper",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Mabel",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Soos",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Wendy",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Pacifica",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Robbie",
+    "show": "Gravity Falls",
+    "debut_year": 2012,
+    "species": "Human",
+    "role": "Side",
+    "color": "Black",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Star",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Mewman",
+    "role": "Main",
+    "color": "Pink",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Marco",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Tom",
+    "show": "Star vs. The Forces of Evil",
+    "debut_year": 2015,
+    "species": "Demon",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Disney Channel"
+  },
+  {
+    "name": "Rick",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Morty",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Summer",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Pink",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Beth",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Jerry",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Tammy",
+    "show": "Rick and Morty",
+    "debut_year": 2013,
+    "species": "Human",
+    "role": "Villain",
+    "color": "Blonde",
+    "network": "Adult Swim"
+  },
+  {
+    "name": "Stan",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Kyle",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Main",
+    "color": "Green",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Cartman",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Main",
+    "color": "Red",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Kenny",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Main",
+    "color": "Orange",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Butters",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Yellow",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Tweek",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blonde",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Craig",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Wendy",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Purple",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Mr. Garrison",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Token",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Clyde",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Bebe",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blonde",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Ike",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Black",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Terrance",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Phillip",
+    "show": "South Park",
+    "debut_year": 1997,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "Comedy Central"
+  },
+  {
+    "name": "Homer",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "FOX"
+  },
+  {
+    "name": "Marge",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Main",
+    "color": "Blue",
+    "network": "FOX"
+  },
+  {
+    "name": "Bart",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "FOX"
+  },
+  {
+    "name": "Lisa",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "FOX"
+  },
+  {
+    "name": "Maggie",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Main",
+    "color": "Yellow",
+    "network": "FOX"
+  },
+  {
+    "name": "Milhouse",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "FOX"
+  },
+  {
+    "name": "Moe",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "FOX"
+  },
+  {
+    "name": "Ralph",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Blue",
+    "network": "FOX"
+  },
+  {
+    "name": "Comic Book Guy",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "FOX"
+  },
+  {
+    "name": "Sideshow Mel",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Red",
+    "network": "FOX"
+  },
+  {
+    "name": "Lenny",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "FOX"
+  },
+  {
+    "name": "Carl",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "FOX"
+  },
+  {
+    "name": "Ned Flanders",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Green",
+    "network": "FOX"
+  },
+  {
+    "name": "Krusty the Clown",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "White",
+    "network": "FOX"
+  },
+  {
+    "name": "Nelson Muntz",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Brown",
+    "network": "FOX"
+  },
+  {
+    "name": "Principal Skinner",
+    "show": "The Simpsons",
+    "debut_year": 1989,
+    "species": "Human",
+    "role": "Side",
+    "color": "Gray",
+    "network": "FOX"
+  }
+]
